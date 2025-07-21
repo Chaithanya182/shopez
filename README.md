@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Doctor Appointment App
 
 A simple and efficient doctor appointment booking system that allows users to book, manage, and track doctor visits easily. This app aims to streamline the process for both patients and healthcare providers.
@@ -85,3 +86,6 @@ This project is licensed under the MIT License.
 
 🌐 Live Demo : https://youtu.be/uNFZ47NE328?si=4X10zMkXyf8rciJx
  
+=======
+# shopez
+>>>>>>> 0049ba3f7a719f9e02e90e2dfb60c991fe1ab303
